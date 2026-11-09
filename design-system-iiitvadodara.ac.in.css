@@ -1,0 +1,122 @@
+/* Design System. iiitvadodara.ac.in */
+/* Extracted by PocketUI (pocketui.app/tools/design-system-extractor) */
+
+:root {
+  /* Colors */
+  --color-primary-1: #1a76d1;
+  --color-primary-2: #0d6efd;
+  --color-primary-3: #dc3545;
+  --color-primary-4: #198754;
+  --color-primary-5: #ae2448;
+  --color-primary-6: #0dcaf0;
+  --color-primary-7: #ffc107;
+  --color-primary-8: #6e1a37;
+  --color-primary-9: #1377d2;
+  --color-primary-10: #751919;
+  --color-primary-11: #ecf7ff;
+  --color-primary-12: #6e1e3c;
+  --color-primary-13: #fcbd12;
+  --color-primary-14: #084298;
+  --color-primary-15: #055160;
+  --color-primary-16: #842029;
+  --color-primary-17: #660000;
+  --color-primary-18: #664d03;
+  --color-primary-19: #0f5132;
+  --color-primary-20: #0a58ca;
+  --color-primary-21: #86b7fe;
+  --color-primary-22: #fff3cd;
+  --color-primary-23: #cfe2ff;
+  --color-primary-24: #cff4fc;
+  --color-primary-25: #b6d4fe;
+  --color-primary-26: #f8d7da;
+  --color-primary-27: #b02a37;
+  --color-primary-28: #f5eac8;
+  --color-primary-29: #146c43;
+  --color-neutral-1: #6c757d;
+  --color-neutral-2: #f8f9fa;
+  --color-neutral-3: #666666;
+  --color-neutral-4: #dddddd;
+  --color-neutral-5: #e9ecef;
+  --color-neutral-6: #dee2e6;
+  --color-neutral-7: #f9f9f9;
+  --color-neutral-8: #eeeeee;
+  --color-neutral-9: #555555;
+  --color-neutral-10: #41464b;
+  --color-neutral-11: #141619;
+  --color-neutral-12: #f3f5f7;
+  --color-neutral-13: #636464;
+  --color-neutral-14: #495057;
+  --color-neutral-15: #373b3e;
+  --color-neutral-16: #333333;
+  --color-neutral-17: #343a40;
+  --color-neutral-18: #e2e3e5;
+  --color-neutral-19: #565e64;
+  --color-neutral-20: #cbccce;
+  --color-neutral-21: #cccccc;
+  --color-accent-1: #2c2d3f;
+  --color-accent-2: #212529;
+  --color-accent-3: #adb5bd;
+  --color-accent-4: #ced4da;
+  --color-accent-5: #bacbe6;
+  --color-accent-6: #badce3;
+  --color-accent-7: #dfc2c4;
+  --color-accent-8: #e6dbb9;
+  --color-accent-9: #d1e7dd;
+  --color-accent-10: #bcd0c7;
+
+  /* Typography */
+  --font-heading: 'Barlow', sans-serif;
+  --font-body: 'Font Awesome 5 Pro', sans-serif;
+  --font-font-3: 'Font Awesome 6 Pro', sans-serif;
+  --font-font-4: 'Font Awesome 6 Sharp', sans-serif;
+  --font-font-5: 'FontAwesome', sans-serif;
+  --font-font-6: 'Font Awesome 6 Brands', sans-serif;
+  --font-font-7: 'Font Awesome 6 Duotone', sans-serif;
+  --font-font-8: 'Font Awesome 5 Brands', sans-serif;
+  --font-font-9: 'Font Awesome 5 Duotone', sans-serif;
+  --font-font-10: 'Font Awesome 6 Free', sans-serif;
+
+  /* Spacing scale */
+  --space-1: 2px;
+  --space-2: 3px;
+  --space-3: 4px;
+  --space-4: 5px;
+  --space-5: 6px;
+  --space-6: 7px;
+  --space-7: 8px;
+  --space-8: 10px;
+  --space-9: 12px;
+  --space-10: 14px;
+  --space-11: 15px;
+  --space-12: 18px;
+  --space-13: 20px;
+  --space-14: 22px;
+  --space-15: 24px;
+  --space-16: 25px;
+  --space-17: 28px;
+  --space-18: 30px;
+  --space-19: 35px;
+  --space-20: 40px;
+
+  /* Border radii */
+  --radius-1: 1px;
+  --radius-2: 4px;
+  --radius-3: 5px;
+  --radius-4: 6px;
+  --radius-5: 8px;
+  --radius-6: 10px;
+  --radius-7: 12px;
+  --radius-8: 14px;
+  --radius-9: 15px;
+  --radius-10: 18px;
+
+  /* Shadows */
+  --shadow-1: 0 0 40px 5px rgb(0 0 0 / 3%);
+  --shadow-2: 0 0 0 .25rem rgba(13,110,253,.25);
+  --shadow-3: 0 0 0 .25rem rgba(25,135,84,.25);
+  --shadow-4: 0 0 0 .25rem rgba(220,53,69,.25);
+  --shadow-5: 0 1px 0 rgba(0,0,0,.25);
+  --shadow-6: 0 4px 18px rgba(0,0,0,.08);
+  --shadow-7: 0 0 10px rgba(0,0,0,.15);
+  --shadow-8: 0px 0px 14px rgba(0, 0, 0, 0.10);
+}

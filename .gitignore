@@ -1,0 +1,23 @@
+# Maven build directory
+target/
+*.class
+
+# Node & frontend build artifacts
+node_modules/
+frontend/generated/
+vite.generated.ts
+
+# Scratch & test scripts
+scratch/
+*.log
+
+# Large binary bundles & archives
+*.zip
+IIIT Vadodara Campus Portal-png (1)/
+
+# IDE & OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
